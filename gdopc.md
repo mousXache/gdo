@@ -1,4 +1,4 @@
-Comment un simple flux d’air sous une voiture peut-il décider de la sécurité d’une Alpine A110 ?
+> *"Comment un simple flux d’air sous une voiture peut-il décider de la sécurité d’une Alpine A110 ?"*
 
 
 # L'Alpine A110 : Le triomphe de la physique sur la force brute
@@ -6,15 +6,19 @@ Comment un simple flux d’air sous une voiture peut-il décider de la sécurit�
 ## Introduction
 
 **Accroche**
+
 Imaginez-vous à 250 km/h sur la ligne droite d'un circuit. À cette vitesse vertigineuse, la seule chose qui relie une voiture de sport à la route et qui maintient son pilote en vie, ce sont quatre zones de contact au sol : quatre morceaux de gomme qui ne sont pas plus grands qu'une carte postale.
 
 **Contexte**
+
 Pour maximiser l'adhérence de ces pneumatiques, la plupart des constructeurs de voitures de sport, comme Porsche ou Ferrari, utilisent d'imposants ailerons arrière. Ces appendices aérodynamiques sont très visibles et agressifs. Pourtant, si vous regardez l'Alpine A110 moderne, l'une des sportives françaises les plus reconnues, vous remarquerez une ligne d'une pureté absolue, sans aucun aileron. Elle conserve la silhouette fluide de son ancêtre championne des rallyes dans les années 70.
 
 **Problématique**
 
 Dès lors, une question se pose : comment, sans cet artifice mécanique visible, l'Alpine A110 parvient-elle à rester plaquée au sol à plus de 250 km/h ? Autrement dit : comment un simple flux d'air passant sous une voiture peut-il décider de la sécurité de ses passagers ?
+
 **Plan**
+
 Pour y répondre, nous utiliserons les outils de la physique. Nous analyserons d'abord les risques mécaniques liés à la haute vitesse en dressant le bilan des forces. Ensuite, nous plongerons au cœur de la mécanique des fluides pour comprendre comment le fond plat de l'Alpine exploite le théorème de Bernoulli. Enfin, nous verrons pourquoi cette solution est physiquement beaucoup plus efficiente qu'un aileron classique.
 
 ## I. Le danger de la haute vitesse : la portance
