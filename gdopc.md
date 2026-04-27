@@ -1,10 +1,5 @@
 Comment un simple flux d’air sous une voiture peut-il décider de la sécurité d’une Alpine A110 ?
 
-Théorème de Bernoulli : $P + \frac{1}{2}\rho v^2 = \text{constante}$
-
-Ou en bloc :
-$$P + \frac{1}{2}\rho v^2 + \rho g z = \text{constante}$$
-
 
 # L'Alpine A110 : Le triomphe de la physique sur la force brute
 ## Introduction
