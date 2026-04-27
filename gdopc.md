@@ -21,12 +21,25 @@ Mais à haute vitesse, l'air modifie la donne. La carrosserie d'une voiture se r
 ## II. Dompter l'air sous la voiture : Bernoulli et l'effet Venturi
 Sous l'Alpine, le châssis est caréné par une plaque totalement lisse : le **fond plat**. À l'arrière, ce fond remonte pour former un canal évasé appelé **diffuseur**.
 En modélisant l'air comme un fluide incompressible et l'écoulement comme stationnaire, nous appliquons le théorème de Bernoulli le long d'une ligne de courant :
+
+$$P + \frac{1}{2}\rho v^2 + \rho g z = \text{constante}$$
+
+
 Puisque l'air circule horizontalement, les variations d'altitude (z) sont négligeables. Le théorème se simplifie ainsi :
+
+$$P + \frac{1}{2}\rho v^2 = \text{constante}$$
+
+
 Cela signifie que si la vitesse (v) augmente, la pression (P) diminue.
-Le débit volumique D_v devant se conserver (D_v = S \times v), l'air est obligé d'accélérer violemment dans l'espace minuscule entre le sol et le fond plat (où la surface S est très réduite). C'est l'**effet Venturi**.
-Cette accélération fait chuter la pression sous la voiture. La différence avec la pression atmosphérique supérieure crée une force pressante (F = P \times S) dirigée vers le bas. La voiture est littéralement aspirée par la route. Le diffuseur, en s'évasant, permet à l'air de décélérer doucement pour retrouver la pression ambiante, agissant comme une pompe qui optimise cette dépression.
+Le débit volumique $D\_v$ devant se conserver ($D\_v = S \times v$), l'air est obligé d'accélérer violemment dans l'espace minuscule entre le sol et le fond plat (où la surface S est très réduite). C'est l'**effet Venturi**.
+Cette accélération fait chuter la pression sous la voiture. La différence avec la pression atmosphérique supérieure crée une force pressante ($F = P \times S$) dirigée vers le bas. La voiture est littéralement aspirée par la route. Le diffuseur, en s'évasant, permet à l'air de décélérer doucement pour retrouver la pression ambiante, agissant comme une pompe qui optimise cette dépression.
 ## III. Diffuseur vs Aileron : L'efficience physique de l'Alpine
-Un aileron classique est une aile inversée efficace mais coûteuse en énergie à cause de la **traînée induite**. Il agit comme un parachute, dégradant le coefficient de pénétration dans l'air (C_x) selon la loi de la traînée :
+Un aileron classique est une aile inversée efficace mais coûteuse en énergie à cause de la **traînée induite**. Il agit comme un parachute, dégradant le coefficient de pénétration dans l'air ($C\_x$) selon la loi de la traînée :
+
+$$F_x = \frac{1}{2} \rho v^2 C_x S$$
+
+
+
 L'intelligence de l'A110 réside dans son efficience. Le couple fond plat/diffuseur génère une "déportance gratuite" avec une traînée presque nulle. Cela permet à l'Alpine d'atteindre des performances égales à des concurrentes plus puissantes tout en restant légère (1100 kg), créant un cercle vertueux : moins de poids fatigue moins les pneus et augmente l'agilité.
 ## Conclusion
 **Bilan**
