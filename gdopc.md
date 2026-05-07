@@ -1,7 +1,10 @@
 > *"Comment un simple flux d’air sous une voiture peut-il décider de la sécurité d’une Alpine A110 ?"*
 
+Soit : 
 
-# L'Alpine A110 : Le triomphe de la physique sur la force brute
+> ### Pourquoi le diffuseur arrière est-il l'élément aérodynamique critique pour la sécurité de l'Alpine A110 
+
+# L'Alpine A110
 
 ## Introduction
 
@@ -21,7 +24,7 @@ Dès lors, une question se pose : comment, sans cet artifice mécanique visible,
 
 Pour y répondre, nous utiliserons les outils de la physique. Nous analyserons d'abord les risques mécaniques liés à la haute vitesse en dressant le bilan des forces. Ensuite, nous plongerons au cœur de la mécanique des fluides pour comprendre comment le fond plat de l'Alpine exploite le théorème de Bernoulli. Enfin, nous verrons pourquoi cette solution est physiquement beaucoup plus efficiente qu'un aileron classique.
 
-## I. Le danger de la haute vitesse : la portance
+## I. La portance, un danger pour la grande vitesse
 
 Pour comprendre le danger, modélisons notre voiture en mouvement. Le système étudié est la voiture de centre de masse G, dans le référentiel terrestre supposé galiléen.
 À faible vitesse, le bilan des forces est simple : selon la seconde loi de Newton, la voiture est soumise à son poids, dirigé vers le bas, et à la réaction normale de la route, dirigée vers le haut. La force de frottement des pneus sur la route — l'adhérence — est directement proportionnelle à cette réaction normale. Plus la voiture appuie sur le sol, plus elle a d'adhérence.
@@ -30,7 +33,7 @@ Mais à haute vitesse, l'air modifie la donne. La carrosserie d'une voiture se r
  2. **La portance** (verticale vers le haut), ou *lift*.
 À 200 km/h, cette portance peut littéralement soulever le véhicule, comme lors de l'accident au Nürburgring en 2015. La réaction normale diminue, le train arrière s'allège et l'adhérence disparaît, rendant tout virage ou freinage catastrophique. Pour l'A110, les ingénieurs devaient annuler cette force sans ajouter d'aileron.
 
-## II. Dompter l'air sous la voiture : Bernoulli et l'effet Venturi
+## II. La voiture dompte son air, grâce à l'effet Venturi et Bernoulli
 
 Sous l'Alpine, le châssis est caréné par une plaque totalement lisse : le **fond plat**. À l'arrière, ce fond remonte pour former un canal évasé appelé **diffuseur**.
 En modélisant l'air comme un fluide incompressible et l'écoulement comme stationnaire, nous appliquons le théorème de Bernoulli le long d'une ligne de courant :
@@ -47,7 +50,7 @@ Cela signifie que si la vitesse (v) augmente, la pression (P) diminue.
 Le débit volumique $D\_v$ devant se conserver ($D\_v = S \times v$), l'air est obligé d'accélérer violemment dans l'espace minuscule entre le sol et le fond plat (où la surface S est très réduite). C'est l'**effet Venturi**.
 Cette accélération fait chuter la pression sous la voiture. La différence avec la pression atmosphérique supérieure crée une force pressante ($F = P \times S$) dirigée vers le bas. La voiture est littéralement aspirée par la route. Le diffuseur, en s'évasant, permet à l'air de décélérer doucement pour retrouver la pression ambiante, agissant comme une pompe qui optimise cette dépression.
 
-## III. Diffuseur vs Aileron : L'efficience physique de l'Alpine
+## III. Diffuseur contre Aileron : L'efficience physique de l'Alpine
 
 Un aileron classique est une aile inversée efficace mais coûteuse en énergie à cause de la **traînée induite**. Il agit comme un parachute, dégradant le coefficient de pénétration dans l'air ($C\_x$) selon la loi de la traînée :
 
